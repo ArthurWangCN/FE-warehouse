@@ -1,0 +1,26 @@
+{
+  "name": "FE-warehouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs --open",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurWangCN/FE-warehouse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurWangCN/FE-warehouse/issues"
+  },
+  "homepage": "https://github.com/ArthurWangCN/FE-warehouse#readme",
+  "devDependencies": {
+    "vitepress": "^0.22.3"
+  }
+}
