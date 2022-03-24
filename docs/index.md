@@ -4,7 +4,7 @@ heroAlt: Logo image
 heroText: Welcome!
 tagline: Hero subtitle
 actionText: Get Started
-actionLink: /ts/basics
+actionLink: /basic/html
 features:
   - title: Simplicity First
     details: Minimal setup with markdown-centered project structure helps you focus on writing.
